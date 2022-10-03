@@ -1,0 +1,38 @@
+button{
+    width: 65px;
+    height: 37px;
+    border: none;
+    border-radius: 6px;
+    background-color: #e8e2da;
+    color: #494c4b;
+    font-size: large;
+    font-weight: bold;
+
+    box-shadow: 0px 3px 0px 0px rgba(170,159,154,0.75);
+    -webkit-box-shadow: 0px 3px 0px 0px rgba(170,159,154,0.75);
+    -moz-box-shadow: 0px 3px 0px 0px rgba(170,159,154,0.75);
+}
+
+.reset-button{
+    width: 145px;
+    background-color: #647198;
+    color: #e8e2da;
+    box-shadow: 0px 3px 0px 0px rgba(63,77,113,0.75);
+    -webkit-box-shadow: 0px 3px 0px 0px rgba(63,77,113,0.75);
+    -moz-box-shadow: 0px 3px 0px 0px rgba(63,77,113,0.75);
+  }
+.equal-button{
+    width: 145px;
+    background-color: #d04030;
+    color: #e8e2da;
+    box-shadow: 0px 3px 0px 0px rgba(147,33,26,0.75);
+    -webkit-box-shadow: 0px 3px 0px 0px rgba(147,33,26,0.75);
+    -moz-box-shadow: 0px 3px 0px 0px rgba(147,33,26,0.75);
+  }
+.del-button{
+    background-color: #647198;
+    color: #e8e2da;
+    box-shadow: 0px 3px 0px 0px rgba(63,77,113,0.75);
+    -webkit-box-shadow: 0px 3px 0px 0px rgba(63,77,113,0.75);
+    -moz-box-shadow: 0px 3px 0px 0px rgba(63,77,113,0.75);
+  }
